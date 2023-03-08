@@ -20,11 +20,9 @@ export default function Navbar(){
   </div>
   
   <div className="nav-links">
-    <a href="//github.io/jo_geek" target="_blank" rel="noreferrer">Github</a>
-    <a href="http://stackoverflow.com/users/4084003/" target="_blank" rel="noreferrer">Stackoverflow</a>
-    <a href="https://in.linkedin.com/in/jonesvinothjoseph" target="_blank" rel="noreferrer">LinkedIn</a>
-    <a href="https://codepen.io/jo_Geek/" target="_blank" rel="noreferrer">Codepen</a>
-    <a href="https://jsfiddle.net/user/jo_Geek/" target="_blank" rel="noreferrer">JsFiddle</a>
+    <a href="//github.io/virgel1995" target="_blank" rel="noreferrer">Github</a>
+    <a href="http://stackoverflow.com" target="_blank" rel="noreferrer">Stackoverflow</a>
+
   </div>
 </div>
 		</div>
